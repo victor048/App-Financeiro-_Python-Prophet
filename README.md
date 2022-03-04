@@ -7,4 +7,3 @@ pip install streamlit,
 conda install plotly,
 conda install -c anaconda ephem,
 conda install -c conda-forge pystan
-
