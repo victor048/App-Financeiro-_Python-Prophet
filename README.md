@@ -1,6 +1,7 @@
 # App-Financeiro-_Python-Prophet
 
 📦Instalação das dependências:
+
 conda install yfinance 
 pip install streamlit
 conda install plotly
